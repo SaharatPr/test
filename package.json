@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/SaharatPr/api#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0"
   }
 }
